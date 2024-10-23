@@ -1,3 +1,4 @@
+ZZZ![Screenshot 2024-10-23 153921](https://github.com/user-attachments/assets/780da334-515d-4fe6-ab39-515f829b361c)
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
@@ -36,6 +37,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![Screenshot 2024-10-23 153921](https://github.com/user-attachments/assets/348ab224-7664-43c6-bcc5-0c632618abb2)
  
  
  ## RESULT
